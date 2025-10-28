@@ -1,9 +1,15 @@
-# Secure Security UX Demos
+<div align="center">
+  <h3>Workshop - Cybersecurity 01</h3>
+  <h1>Secure Security UX Demos</h1>
+  <br />
+</div>
+
+## About
 
 This project contains **secure, user-friendly implementations** of the same demo flows.  
 Each screen demonstrates a better practice that improves both UX and security.
 
-## Screens
+### Screens
 
 - **Login**
 
