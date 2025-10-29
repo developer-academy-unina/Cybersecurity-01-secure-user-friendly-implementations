@@ -1,15 +1,47 @@
 <div align="center">
-  <h3>Workshop - Cybersecurity 01</h3>
-  <h1>Secure Security UX Demos</h1>
+  <h3>Workshop</h3>
+  <h1>
+      Cybersecurity 01 - Secure Security UX Demos<br />
+  </h1>
   <br />
 </div>
 
+<br />
+
+<p align="center">
+  <a href="#" alt="Version">
+    <img src="https://img.shields.io/static/v1?label=Version&message=1.0.0&color=brightgreen" />
+  </a>
+  <a href="#" alt="XCode Version">
+    <img src="https://img.shields.io/static/v1?label=XCode%20Version&message=26.0&color=brightgreen&logo=xcode" />
+  </a>        
+  <a href="#" alt="Swift Version">
+    <img src="https://img.shields.io/static/v1?label=Swift%20Version&message=6.0&color=brightgreen&logo=swift" />
+  </a>
+  <a href="#" alt="Framework used">
+    <img src="https://img.shields.io/static/v1?label=Framework%20used&message=SwiftUI&color=brightgreen&logo=swift">
+  </a>          
+</p>
+
+---
+
 ## About
 
-This project contains **secure, user-friendly implementations** of the same demo flows.  
+In this repository, you will explore how thoughtful design choices in user experience (UX) can **enhance security** without compromising usability.  
+
+This project contains **secure, user-friendly implementations** of the same demo flows of "Cybersecurity 01 - Insecure Security UX Demos".  
 Each screen demonstrates a better practice that improves both UX and security.
 
-### Screens
+
+## Learning Goals
+
+In this repository, you will:
+- See how small UX changes can drastically improve perceived and real security
+- Learn iOS patterns for secure text entry, permissions, and error handling
+- Understand that "secure" often also means **clearer and more user-friendly**
+
+
+### Screens Demonstrated
 
 - **Login**
 
@@ -37,8 +69,10 @@ Each screen demonstrates a better practice that improves both UX and security.
   - iOS can autofill codes from SMS/Mail
   - Code masked to reduce shoulder-surfing risk
 
-## Learning Goals
+## Getting Started
 
-- See how small UX changes can drastically improve perceived and real security
-- Learn iOS patterns for secure text entry, permissions, and error handling
-- Understand that "secure" often also means **clearer and more user-friendly**
+### Installation
+
+To get access to the project created during the workshop, you can [download the repository as a zip file](https://github.com/developer-academy-unina/Cybersecurity-01-secure-user-friendly-implementations/archive/refs/heads/main.zip) and access the project.
+
+<br />
